@@ -89,12 +89,6 @@ This project emphasizes:
 
 ---
 
-## Screenshots
-
-(Add screenshots here)
-
----
-
 ## Inspiration
 
 This project was inspired by real classroom preparation workflows used in early education environments and designed to simplify weekly material organization for teachers.
